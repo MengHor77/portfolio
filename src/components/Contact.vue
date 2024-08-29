@@ -33,7 +33,7 @@ function copyEmailToClipboard() {
                 width="35"
             />
 
-            <span class="email">iwaniukmaciej1@gmail.com</span>
+            <span class="email">horxneat.com</span>
         </div>
     </section>
 </template>
